@@ -1,0 +1,27 @@
+{
+  "name": "web-dev",
+  "version": "1.0.0",
+  "description": "site dedicated to a friend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ld2416/web-dev.git"
+  },
+  "keywords": [
+    "purple"
+  ],
+  "author": "Danielle and Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ld2416/web-dev/issues"
+  },
+  "homepage": "https://github.com/ld2416/web-dev#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
